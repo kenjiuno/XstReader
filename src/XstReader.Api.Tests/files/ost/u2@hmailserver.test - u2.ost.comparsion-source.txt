@@ -1,0 +1,31 @@
+Root/
+Root/ルート - パブリック/
+Root/ルート - パブリック/IPM_SUBTREE/
+Root/ルート - パブリック/NON_IPM_SUBTREE/
+Root/ルート - パブリック/NON_IPM_SUBTREE/EFORMS REGISTRY/
+Root/ルート - パブリック/NON_IPM_SUBTREE/EFORMS REGISTRY/組織フォーム/
+Root/ルート - メールボックス/
+Root/ルート - メールボックス/~MAPISP(Internal)/
+Root/ルート - メールボックス/Drizzle/
+Root/ルート - メールボックス/IPM_SUBTREE/
+Root/ルート - メールボックス/IPM_SUBTREE/RSS フィード (このコンピューターのみ)/
+Root/ルート - メールボックス/IPM_SUBTREE/クイック操作設定 (このコンピューターのみ)/
+Root/ルート - メールボックス/IPM_SUBTREE/スレッド アクション設定 (このコンピューターのみ)/
+Root/ルート - メールボックス/IPM_SUBTREE/タスク (このコンピューターのみ)/
+Root/ルート - メールボックス/IPM_SUBTREE/メモ (このコンピューターのみ)/
+Root/ルート - メールボックス/IPM_SUBTREE/下書き/
+Root/ルート - メールボックス/IPM_SUBTREE/削除済みアイテム/
+Root/ルート - メールボックス/IPM_SUBTREE/受信トレイ/
+Root/ルート - メールボックス/IPM_SUBTREE/送信トレイ/
+Root/ルート - メールボックス/IPM_SUBTREE/送信済みアイテム/
+Root/ルート - メールボックス/IPM_SUBTREE/同期の失敗 (このコンピューターのみ)/
+Root/ルート - メールボックス/IPM_SUBTREE/同期の失敗 (このコンピューターのみ)/ローカルの失敗 (このコンピューターのみ)/
+Root/ルート - メールボックス/IPM_SUBTREE/迷惑メール/
+Root/ルート - メールボックス/IPM_SUBTREE/予定表 (このコンピューターのみ)/
+Root/ルート - メールボックス/IPM_SUBTREE/履歴 (このコンピューターのみ)/
+Root/ルート - メールボックス/IPM_SUBTREE/連絡先 (このコンピューターのみ)/
+Root/ルート - メールボックス/ショートカット/
+Root/ルート - メールボックス/共通ビュー/
+Root/ルート - メールボックス/共有データ/
+Root/ルート - メールボックス/検索/
+Root/ルート - メールボックス/表示/
